@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+}
+.App {
+  min-width: 788px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: sans-serif;
+  text-align: center;
+}

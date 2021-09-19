@@ -1,0 +1,13 @@
+.expenseFilter {
+  width: 500px;
+  margin: 16px;
+  padding: 16px;
+  background-color: whitesmoke;
+  display: flex;
+  justify-content: space-between;
+}
+
+.expenseFilter > select {
+  border: none;
+  background-color: transparent;
+}
